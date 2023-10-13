@@ -47,10 +47,19 @@ Provide an overview of the Python program, including its purpose, functionality,
 
 ## Excel
 - <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/tree/main/MS-Excel"> Store Dataset : </a> Dynamic Visualization of SuperStore using <b>MS-Excel</b> gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user without prior information.
-- <hr />
-<br />
+<div align="center">
+  <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/MS-Excel/image.png" target="_blank">
+    <img src="https://github.com/Parmar2001/Data_Analyst_Portfolio/raw/main/MS-Excel/image.png" alt="Screenshot 2023-07-28 152259">
+  </a>
+</div>
 
+<hr />
 
+<div align="center">
+  <h3>Don't forget to leave a star ⭐️</h3>
+</div>
+
+  
 ## Power BI
 ### :octocat:Dashboard👇
 
