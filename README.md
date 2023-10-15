@@ -3,7 +3,7 @@ I have built a portfolio to showcase all my analyst work.
 ## Project Name
 
 ## Overview
-Briefly describe the purpose and objective of the project.
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -17,7 +17,7 @@ Briefly describe the purpose and objective of the project.
 - [Power BI](#power-bi)
 
 ## Features
-List the main features of the project.
+
 
 ## Tools 
 * Python: Python3, NumPy, Pandas, Seaborn, Matplotlib
@@ -26,27 +26,32 @@ List the main features of the project.
 
 
 ## Skills 
-* Python3, Data Analysis, Data Visualization, Statistics, Power BI , Excel
+* Python3, Data Analysis, Data Visualization, Statistics, Power BI, Excel
 
 
 ## Installation
-Explain how to set up the project, including any dependencies or packages that need to be installed.
+Python 3.7 or above is recommended, or Anaconda can also be used
 
 ## Usage
-Provide instructions on how to use the project, including any commands or steps needed to run the program or view the visualizations.
+You can modify the project to suit your specific requirements
 
 ## Data Sources
 <a href="https://www.kaggle.com/"> Data Source </a>
 
 ## Data Processing
-Explain the data processing steps involved, including any data cleaning, transformation, or manipulation.
+the data processing steps involved, including any data cleaning, transformation, or manipulation.
 
 
 ## Python Program
-Provide an overview of the Python program, including its purpose, functionality, and how to run it.
+### Diwali Sales Analysis Report
+The Diwali sales analysis report provides an in-depth exploration of sales data during the Diwali season. .
+we also  perform EDA on the sales data related to the Diwali season. EDA involves data cleaning, visualization, and statistical analysis to derive meaningful insights from the dataset.
+#### Links 
+- <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/Data%20Analysis/Deepawali_Sales_Analysis.ipynb">Diwali Sales Analysis Report : </a>
+
 
 ## Excel
-- <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/tree/main/MS-Excel"> Store Dataset : </a> Dynamic Visualization of SuperStore using <b>MS-Excel</b> gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user without prior information.
+- <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/tree/main/MS-Excel"> Store Dataset: </a> Dynamic Visualization of SuperStore using <b>MS-Excel</b> gives the insights about the yearly Sales, Profits regionwise or categorywise. Any user can view this without prior information.
 <div align="center">
   <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/MS-Excel/Ramesh_store_Report.jpg" target="_blank">
     <img src="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/MS-Excel/Ramesh_store_Report.jpg" alt="Screenshot 2023-07-28 152259">
@@ -65,7 +70,7 @@ Provide an overview of the Python program, including its purpose, functionality,
 
 ### E-Commerce Sales Dashboard with Power BI
 This repository contains a Power BI project for creating an E-Commerce Sales Dashboard. The dashboard provides insights and visualizations related to sales data in the e-commerce domain.
-This Power BI project aims to visualize and analyze sales data in the e-commerce sector. It offers an easy-to-understand, interactive dashboard that provides essential insights for decision-making and performance tracking.
+This Power BI project aims to visualize and analyze sales data in the e-commerce sector. It offers an easy-to-understand, interactive dashboard that provides essential decision-making and performance-tracking insights.
 #### Links 
 - <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/Power%20BI/E-Commerce_sales_DashBoard.pdf"> E-Commerce Sales Dashboard : </a>
 
@@ -73,7 +78,7 @@ This Power BI project aims to visualize and analyze sales data in the e-commerce
 ###  Mega Store Sales Dashboard and 15-Day Forecast Report
 The Mega Store Sales Dashboard is a data visualization tool that provides insights into sales performance, trends, and key metrics for the Mega Store.
 The 15-day sales forecast report provides predictions for sales in the Mega Store for the upcoming 15 days, aiding in strategic planning and decision-making.
-The forecast is generated using advanced predictive modeling techniques, considering historical sales data, seasonality.
+The forecast is generated using advanced predictive modelling techniques, considering historical sales data, and seasonality.
 #### Links 
 - <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/Power%20BI/Mega_stores_BI_Dashboard.pdf"> Mega Store Sales Dashboard : </a>
 
