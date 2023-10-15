@@ -72,7 +72,7 @@ This Power BI project aims to visualize and analyze sales data in the e-commerce
 
 <hr />
 <br />
-<div align="center">Don't forget to leave a star ⭐️</div>
+<div align="center"> <h3>Don't forget to leave a star </h3> ⭐️</div>
 
 ## Contributing
 
