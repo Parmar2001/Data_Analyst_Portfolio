@@ -67,8 +67,15 @@ Provide an overview of the Python program, including its purpose, functionality,
 This repository contains a Power BI project for creating an E-Commerce Sales Dashboard. The dashboard provides insights and visualizations related to sales data in the e-commerce domain.
 This Power BI project aims to visualize and analyze sales data in the e-commerce sector. It offers an easy-to-understand, interactive dashboard that provides essential insights for decision-making and performance tracking.
 #### Links 
-- <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/Power%20BI/E-Commerce_sales_DashBoard.pdf"> E-Commerce Sales Dashboard : </a> 
+- <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/Power%20BI/E-Commerce_sales_DashBoard.pdf"> E-Commerce Sales Dashboard : </a>
 
+
+###  Mega Store Sales Dashboard and 15-Day Forecast Report
+The Mega Store Sales Dashboard is a data visualization tool that provides insights into sales performance, trends, and key metrics for the Mega Store.
+The 15-day sales forecast report provides predictions for sales in the Mega Store for the upcoming 15 days, aiding in strategic planning and decision-making.
+The forecast is generated using advanced predictive modeling techniques, considering historical sales data, seasonality.
+#### Links 
+- <a href="https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/main/Power%20BI/Mega_stores_BI_Dashboard.pdf"> Mega Store Sales Dashboard : </a>
 
 <hr />
 <br />
