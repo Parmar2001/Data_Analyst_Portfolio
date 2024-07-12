@@ -2,7 +2,7 @@
 
 Building anime recommendation system based only on user viewing history, Genre and other features.
 
-![table](https://postimg.cc/xcHM25Mk)
+![table](https://github.com/Parmar2001/Data_Analyst_Portfolio/blob/5326b6fc39739bfde80ef9c23e92ed9e636e86c2/Data%20Science/Anime-Recommendation-System/wp9944149-all-animes-4k-wallpapers.jpg)
 
 ## DATASET
 This dataset has been from : https://www.kaggle.com/CooperUnion/anime-recommendations-database?select=anime.csv <br/>
