@@ -1,4 +1,4 @@
-# Anime-Recommendation
+# Anime-Recommendation-System
 
 Building anime recommendation system based only on user viewing history, Genre and other features.
 
