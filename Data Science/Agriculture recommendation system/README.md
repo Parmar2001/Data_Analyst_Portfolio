@@ -1,4 +1,4 @@
-# Agriclture-Recommendation-system-
+# Agriculture-Recommendation-system-
 
 ## Introduction:
 
